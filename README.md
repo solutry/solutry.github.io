@@ -1,1 +1,0 @@
-# solutry.github.io
