@@ -1005,6 +1005,7 @@ body { background: var(--white); }
   .newsletter .btn {
     min-width: max-content;
     padding-inline: 15px;
+    width: 41.974%;
   }
 
 
